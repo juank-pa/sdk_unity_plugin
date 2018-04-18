@@ -15,19 +15,19 @@ Styling
 
 body {
 	font: 1em/1.5em "Helvetica Neue", Helvetica, Arial, sans-serif;
-	color:#666;
+	color:#555;
 	-webkit-font-smoothing:antialiased;
 	text-rendering:optimizeLegibility;
 	margin: 30px;
-	background-color: #ffffff;
+	background-color: #FFF;
 }
 
 a {
-	color: #4ba7f2;
-	text-decoration: none;
+	color: #5484DD;
+	font-weight: bold;
 }
 
-a:link {-webkit-tap-highlight-color: #c5c5c5;}
+a:link {-webkit-tap-highlight-color: #5484DD;}
 
 img { max-width:100%; }
 
@@ -39,7 +39,7 @@ strong{
 }
 
 h1, h2, h3, h4, h5, h6{
-	color:#333;
+	color:#555;
 	font-weight:bold;
 	margin-bottom: 20px;
 	line-height: 1.25em;

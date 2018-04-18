@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
-    <color name="zendesk_color_primary">#2196F3</color>
-    <color name="zendesk_color_primary_dark">#1976D2</color>
-    <color name="zendesk_color_accent">#FFC107</color>
-
+    <color name="zendesk_color_primary">#5484DD</color>
+    <color name="zendesk_color_primary_dark">#000</color>
+    <color name="zendesk_color_accent">#5484DD</color>
+    <color name="zendesk_background_color">#FFF</color>
+    <color name="zendesk_text_color">#555</color>
+    <color name="zendesk_divider">#555</color>
+    <color name="background_floating_material_dark">#9DB6F4</color>
 </resources>
